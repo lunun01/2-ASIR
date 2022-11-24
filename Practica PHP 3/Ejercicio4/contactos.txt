@@ -1,0 +1,5 @@
+Luis:informatico:6689789:C/Saucos 37:
+Roberto:profesor:5896824:Madrid:
+pepe:fontanero:918765457:Barcelona:
+::::
+javi:futbolista:6657845:madrid:hola

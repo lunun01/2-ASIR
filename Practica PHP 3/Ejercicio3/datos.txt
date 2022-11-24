@@ -1,0 +1,4 @@
+El alumno Luis con telefono 6689789, esta matriculado en un Ciclo Superior
+El alumno Alberto con telefono 5896824, esta matriculado en un Bachillerato
+El alumno Roberto con telefono 345663, no esta matriculado
+El alumno Mauricio con telefono 659854123, esta matriculado en un Ciclo Superior

@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <form action="datos_alumnos.php" method="get">
+            <fieldset>
+                <h2>DATOS DEL ALUMNO:</h2>
+                <p>Introduzca su nombre: <input type="text" name="nombre"></p>
+                <p>Introduzca su telefono: <input type="text" name="telefono"></p>
+                <p>Matriculado: <input type="checkbox" name="matriculado" value="matriculado"></p>
+                <p>Enseñanza: </p>
+                    <input type="radio" name="ensenanza" value="Secundaria">Secundaria
+                    <input type="radio" name="ensenanza" value="Ciclo Medio">Ciclo Medio
+                    <input type="radio" name="ensenanza" value="Bachillerato">Bachillerato
+                    <input type="radio" name="ensenanza" value="Ciclo Superior">Ciclo Superior
+                <p>Mostrar datos: 
+                    <select name="mostrar">
+                        <option>Por pantalla</option>
+                        <option>En Archivos datos.txt</option>
+                    </select>
+                </p>
+            </fieldset>
+            <input type="submit" value="Enviar datos" name="enviar">
+        </form>
+    </body>
+</html>
